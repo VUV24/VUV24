@@ -1,24 +1,18 @@
 <h1 align="center">Hey, I'm Ved Vyas 👋</h1>
 
 <p align="center">
-  <em>Computer Science Student &nbsp;·&nbsp; Aspiring Software Engineer &nbsp;·&nbsp; Lifelong Learner</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VUV24">
-    <img src="https://komarev.com/ghpvc/?username=VUV24&color=0e75b6&style=flat-square" alt="Profile views" />
-  </a>
+  <em>Computer Engineering Student &nbsp;·&nbsp; Aspiring ML Engineer &nbsp;·&nbsp; Lifelong Learner</em>
 </p>
 
 ---
 
 ## About Me
 
-- 🎓 Currently studying Computer Science and sharpening my fundamentals
+- 🎓 Currently studying Computer Engineering and sharpening my fundamentals
 - 💡 Passionate about building things and solving problems through code
-- 🌱 Always learning — right now focused on strengthening my core CS foundations
-- 🎯 Goal: Land my first internship / software engineering role
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+- 🌱 Always learning — right now focused on strengthening my core ML foundations
+- 🎯 Goal: Land my first internship
+- 📫 Reach me at: **[vedv28@vt.edu](mailto:vedv28@vt.edu)**
 
 ---
 
@@ -54,17 +48,11 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="(https://www.linkedin.com/in/ved-vyas-776190291/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vedv28@vt.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <sub>⭐ Star a repo if you find it helpful — it means a lot!</sub>
 </p>
