@@ -36,15 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VUV24&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VUV24&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
