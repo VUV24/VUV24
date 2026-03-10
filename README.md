@@ -28,18 +28,16 @@
 
 ## 🚀 Projects
 
-> 🔨 Currently working on building my first projects — stay tuned!
-
 | Project | Description | Tech |
 |--------|-------------|------|
-| *Coming soon* | — | — |
+| [Spam Email Detector](https://github.com/VUV24/spam-ham-classifier) | ML text classifier that detects spam emails using TF-IDF vectorization and Naive Bayes. Achieves 95–98% accuracy on real-world datasets. | Python, scikit-learn, pandas, NumPy |
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="(https://www.linkedin.com/in/ved-vyas-776190291/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ved-vyas-776190291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
