@@ -8,11 +8,11 @@
 
 ## About Me
 
-- 🎓 Currently studying Computer Engineering and sharpening my fundamentals
-- 💡 Passionate about building things and solving problems through code
-- 🌱 Always learning — right now focused on strengthening my core ML foundations
-- 🎯 Goal: Land my first internship
-- 📫 Reach me at: **[vedv28@vt.edu](mailto:vedv28@vt.edu)**
+- Currently studying Computer Engineering and sharpening my fundamentals
+- Passionate about building things and solving problems through code
+- Always learning: right now focused on strengthening my core ML foundations
+- Goal: Land an internship or full time positition
+- Reach me at: **[vedv28@vt.edu](mailto:vedv28@vt.edu)**
 
 ---
 
